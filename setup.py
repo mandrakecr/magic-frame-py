@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="magic-frame-py",
+    name="magic_frame_py",
     version="0.1.0",
     description="Common set of APIs for my projects",
     long_description=open("README.md").read(),
